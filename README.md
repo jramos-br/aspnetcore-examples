@@ -1,2 +1,2 @@
 # aspnetcore-examples
-ASP.NET Core assorted examples primarily used to learning and testing.
+ASP.NET Core assorted examples primarily used for learning and testing.
